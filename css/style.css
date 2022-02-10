@@ -48,3 +48,12 @@ img {
   padding-top: 5px;
   padding-right: 10px;
 }
+#contact {
+  display: flex;
+}
+#contact > p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+}
