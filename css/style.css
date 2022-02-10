@@ -42,3 +42,9 @@ img {
 #occupation {
   background-color: lightslategray;
 }
+#status {
+  text-align: right;
+  color: lightslategray;
+  padding-top: 5px;
+  padding-right: 10px;
+}
