@@ -57,3 +57,15 @@ img {
   justify-content: center;
   width: 50%;
 }
+#contact > p:first-child{
+  background-color: rgba(106, 233, 106, 0.959);
+  height: 50px;
+  margin: 0;
+  font-size: 25px;
+}
+#contact > p:last-child{
+  background-color: rgb(79, 161, 79);
+  height: 50px;
+  margin: 0;
+  font-size: 40px;
+}
